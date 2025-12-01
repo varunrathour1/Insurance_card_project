@@ -113,9 +113,9 @@ Sample insurance cards are provided for testing. Upload them to verify the syste
 
 Expected extractions:
 - **Insurance Company**: Anthem Blue Cross
-- **Member Name**: JULIA BOLTER
-- **Member ID**: JOU183W24276
-- **Group Number**: U5463
+- **Member Name**: VARUN RATHOUR
+- **Member ID**: JOU678W12345
+- **Group Number**: U1234
 
 ## Cost Considerations
 
