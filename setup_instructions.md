@@ -120,7 +120,7 @@ Expected extractions:
 ## Cost Considerations
 
 AWS Bedrock charges per request:
-- Claude 3.5 Sonnet: ~$3 per 1000 input images (approximate)
+- Claude 3.5 Sonnet: ~$3 per 1000 input images (approximate) 
 - Each card processing = 1-2 API calls
 - Monitor usage in AWS Cost Explorer
 
