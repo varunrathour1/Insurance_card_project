@@ -74,9 +74,9 @@ See [setup_instructions.md](setup_instructions.md) for detailed setup and troubl
 ```json
 {
   "insurance_company": "Anthem Blue Cross",
-  "member_name": "JULIA BOLTER",
-  "member_id": "JOU183W24276",
-  "group_number": "U5463",
+  "member_name": "VARUN",
+  "member_id": "JOU678W12345",
+  "group_number": "U1234",
   "effective_date": "Not visible",
   "additional_info": {
     "plan_type": "PPO",
